@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UserSurvey</string>
+    <string name="name_label">Введите имя: </string>
+    <string name="age_label">Введите возраст: </string>
+    <string name="gender_label">Введите пол: </string>
+    <string name="gender_male">М.</string>
+    <string name="gender_female">Ж.</string>
+    <string name="newsletter_label">Хочу получать новости: </string>
+    <string name="send_button">Отправить</string>
+</resources>
